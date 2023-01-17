@@ -5,6 +5,7 @@ class CreateEntries < ActiveRecord::Migration[6.1]
       t.string :category
       t.integer :date
       t.string :mood
+      t.string :entry_text
       t.belongs_to :user, null: false, foreign_key: true
       t.belongs_to :affirmation, null: false, foreign_key: true
 

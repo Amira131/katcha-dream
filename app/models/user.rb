@@ -1,5 +1,7 @@
 class User < ApplicationRecord
-    has many :entries, dependent: :destroy
-    has many :affirmations, through: :entries
+    has_many :entries, dependent: :destroy
+    has_many :affirmations, through: :entries
+
+    has_secure_password
 
 end

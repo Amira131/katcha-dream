@@ -10,7 +10,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 2023_01_16_175703) do
+ActiveRecord::Schema.define(version: 2023_01_17_033425) do
 
   create_table "affirmations", force: :cascade do |t|
     t.string "aff_text"
@@ -23,6 +23,7 @@ ActiveRecord::Schema.define(version: 2023_01_16_175703) do
     t.string "category"
     t.integer "date"
     t.string "mood"
+    t.string "entry_text"
     t.integer "user_id", null: false
     t.integer "affirmation_id", null: false
     t.datetime "created_at", precision: 6, null: false
@@ -38,7 +39,7 @@ ActiveRecord::Schema.define(version: 2023_01_16_175703) do
     t.integer "phone"
     t.string "email"
     t.string "username"
-    t.string "password"
+    t.string "password_digest"
     t.datetime "created_at", precision: 6, null: false
     t.datetime "updated_at", precision: 6, null: false
   end
