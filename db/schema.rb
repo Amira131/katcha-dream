@@ -21,7 +21,7 @@ ActiveRecord::Schema.define(version: 2023_01_17_033425) do
   create_table "entries", force: :cascade do |t|
     t.string "title"
     t.string "category"
-    t.integer "date"
+    t.string "date"
     t.string "mood"
     t.string "entry_text"
     t.integer "user_id", null: false
@@ -35,8 +35,8 @@ ActiveRecord::Schema.define(version: 2023_01_17_033425) do
   create_table "users", force: :cascade do |t|
     t.string "first_name"
     t.string "last_name"
-    t.integer "birthday"
-    t.integer "phone"
+    t.string "birthday"
+    t.string "phone"
     t.string "email"
     t.string "username"
     t.string "password_digest"

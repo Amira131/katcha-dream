@@ -7,11 +7,16 @@ Rails.application.routes.draw do
   # Leave this here to help deploy your app later!
   # get "*path", to: "fallback#index", constraints: ->(req) { !req.xhr? && req.format.html? }
 
-  get '/about', to:'application#about'
+  # get '/about', to:'application#about'
   get '/affirmations', to:'affirmations#index'
 
 
-  get "/users",        to: "users#index"
+  get "/users",  to: "users#index"
+  post "/login", to: "sessions#create"
+  # delete "/logout", to: "sessions#destroy"
+  # get "/authorized", to: "users#show"
+  # get "/me", to: "users#show"
+
 
   # get "/users/:id",    to: "users#show"
   # post "/users",       to: "users#create"
@@ -20,6 +25,7 @@ Rails.application.routes.draw do
 
   # resources :users, only: [:show, :create, :update]
 
-  post "/login", to: 'application#login'
+  
+
 
 end

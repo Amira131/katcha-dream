@@ -1,7 +1,7 @@
 class UsersController < ApplicationController
     
-#skip_before_action
-    # skip_before_action :authorized_user, only: [:create, :index ]
+skip_before_action
+    skip_before_action :authorized_user, only: [:create, :index ]
 
 # GET to /users :READ 
     def index
@@ -9,7 +9,7 @@ class UsersController < ApplicationController
     end
 
     def show                           #change params to session
-        #  found_customer = Customer.find_by_id(session[:customer_id])
+        #  found_user = User.find_by_id(session[:user_id])
 
         if current_user
             #sending text response back to viewer
@@ -21,8 +21,8 @@ class UsersController < ApplicationController
     end
 
     def create 
-        new_user = User.new(new_customer_params)
-        byebug
+        new_user = User.new(new_user_params)
+    
         
         if new_user.save
             render json: new_user, status: :created
@@ -64,6 +64,15 @@ class UsersController < ApplicationController
     end
 
 
+private 
 
+
+    def new_user_params
+        params.permit(:first_name, :last_name, :username, :birthday, :phone, :email, :password)
+    end
+
+    def edit_user_params
+        #implicit return with attributes 
+        params.permit(:first_name, :last_name, :username, :birthday, :phone, :email, :password)
+    end
 end
-

@@ -3,7 +3,7 @@ class CreateEntries < ActiveRecord::Migration[6.1]
     create_table :entries do |t|
       t.string :title
       t.string :category
-      t.integer :date
+      t.string :date
       t.string :mood
       t.string :entry_text
       t.belongs_to :user, null: false, foreign_key: true

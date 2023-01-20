@@ -8,8 +8,8 @@ puts "making users"
 u1= User.create( 
     first_name: "Divine",
     last_name: "Destiny",
-    birthday:  01-01-1970, 
-    phone: 876-562-5222,
+    birthday:  "01-01-1970", 
+    phone: "876-562-5222",
     email: "ddestiny@example.com",
     username: "Ddestiny",
     password: "1231"
@@ -17,8 +17,8 @@ u1= User.create(
 u2= User.create( 
     first_name: "Graceful",
     last_name: "Lotus",
-    birthday:  02-04-1999, 
-    phone: 718345-3490,
+    birthday:  "02-04-1999", 
+    phone: "718-345-3490",
     email: "glotus@example.com",
     username: "Glotus",
     password: "1232"
@@ -26,8 +26,8 @@ u2= User.create(
 u3= User.create( 
     first_name: "Mystical",
     last_name: "Suncatcher",
-    birthday:  03-01-1980, 
-    phone: 345-432-0423,
+    birthday:  "03-01-1980", 
+    phone: "345-432-0423",
     email: "msunchathcer@example.com",
     username: "Msuncatcher",
     password: "1233"
@@ -35,8 +35,8 @@ u3= User.create(
 u4= User.create( 
     first_name: "Tipsy",
     last_name: "Spirit",
-    birthday:  06-10-1961, 
-    phone: 876-555-5555,
+    birthday:  "06-10-1961", 
+    phone: "876-555-5555",
     email: "tspirit@example.com",
     username: "Tspirit",
     password: "1234"
@@ -44,8 +44,8 @@ u4= User.create(
 u5= User.create( 
     first_name: "Glittery",
     last_name: "Creator",
-    birthday:  12-25-2000, 
-    phone: 845-345-1239,
+    birthday:  "12-25-2000", 
+    phone: "845-345-1239",
     email: "gcreator@example.com",
     username: "Gcreator",
     password: "1235"
@@ -53,8 +53,8 @@ u5= User.create(
 u6= User.create( 
     first_name: "Happy",
     last_name: "Healer",
-    birthday:  11-18-1957, 
-    phone: 201-234-4545,
+    birthday:  "11-18-1957", 
+    phone: "201-234-4545",
     email: "hhealer@example.com",
     username: "Hhealer",
     password: "1236"
@@ -62,8 +62,8 @@ u6= User.create(
 u7= User.create( 
     first_name: "Sweet",
     last_name: "Empress",
-    birthday:  03-01-1998, 
-    phone:917-594-1111,
+    birthday:  "03-01-1998", 
+    phone:"917-594-1111",
     email: "sempress@example.com",
     username: "Sempress",
     password: "1237"
@@ -71,8 +71,8 @@ u7= User.create(
 u8= User.create( 
     first_name: "Crazy",
     last_name: "Lotus",
-    birthday:  04-25-2009, 
-    phone: 987-433-2590,
+    birthday:  "04-25-2009", 
+    phone: "987-433-2590",
     email: "clotus@example.com",
     username: "Clotus",
     password: "1238"
@@ -80,8 +80,8 @@ u8= User.create(
 u9= User.create( 
     first_name: "Magical",
     last_name: "Fairy",
-    birthday:  06-11-1999, 
-    phone: 983-345-9999,
+    birthday:  "06-11-1999", 
+    phone: "983-345-9999",
     email: "mfairy@example.com",
     username: "Mfiary",
     password: "1239"
@@ -89,8 +89,8 @@ u9= User.create(
 u10= User.create( 
     first_name: "Snarky",
     last_name: "Explorer",
-    birthday:  06-11-1987, 
-    phone: 347-567-5790,
+    birthday:  "06-11-1987", 
+    phone: "347-567-5790",
     email: "sexplorer@example.com",
     username: "Sexplorer",
     password: "1240"
@@ -98,8 +98,8 @@ u10= User.create(
 u11= User.create( 
     first_name: "Gypsy",
     last_name: "Queen",
-    birthday:  10-10-2021, 
-    phone: 111-111-1111,
+    birthday:  "10-10-2021", 
+    phone: "111-111-1111",
     email: "gqueen@example.com",
     username: "Gqueen",
     password: "1241"
@@ -107,8 +107,8 @@ u11= User.create(
 u12= User.create( 
     first_name: "Creative",
     last_name: "Giver",
-    birthday:  02-24-1981, 
-    phone: 234-845-2424,
+    birthday:  "02-24-1981", 
+    phone: "234-845-2424",
     email: "cgiver@example.com",
     username: "Cgiver",
     password: "1242"
@@ -225,7 +225,7 @@ puts "making entries"
 e1= Entry.create(
     title: "A New Job as Data Engineer ",
     category: "Career",
-    date: 01-01-2023,
+    date: "01-01-2023",
     mood: "anxious",
     entry_text: 
     
@@ -240,7 +240,7 @@ e1= Entry.create(
 e2= Entry.create(
     title: "Manifesting My House",
     category: "Abundance",
-    date: 01-01-2023,
+    date: "01-01-2023",
     mood: "hopeful",
     entry_text: 
     
@@ -265,7 +265,7 @@ e2= Entry.create(
 e3= Entry.create(
     title: "Greafulness",
     category: "Spiritual Expansion",
-    date: 01-01-2023,
+    date: "01-01-2023",
     mood: "Greatful",
     entry_text: 
     "Morning
@@ -289,7 +289,7 @@ e3= Entry.create(
 e4= Entry.create(
     title: "The Need to Love",
     category: "Self Love",
-    date: 01-01-2023,
+    date: "01-01-2023",
     mood: "sad",
     entry_text: 
     
@@ -326,7 +326,7 @@ e4= Entry.create(
 e5= Entry.create(
     title: "I Needed a Pick Me Up",
     category: "Self Esteem",
-    date: 01-01-2023,
+    date: "01-01-2023",
     mood: "low",
     entry_text: 
     
@@ -348,7 +348,7 @@ e5= Entry.create(
 e6= Entry.create(
     title: "I will manifest $3000 in 3 weeks",
     category: "Money",
-    date: 01-02-2023,
+    date: "01-02-2023",
     mood: "witchy",
     entry_text: 
     
@@ -407,7 +407,7 @@ e6= Entry.create(
 e7= Entry.create(
     title: "A little Peace of Mind",
     category: "Mental Health",
-    date: 01-02-2023,
+    date: "01-02-2023",
     mood: "angry",
     entry_text: 
     
@@ -513,8 +513,8 @@ e7= Entry.create(
 e8= Entry.create(
     title: "I Got the Joy Deep in my Soul",
     category: "Self Work",
-    date: 01-02-2023,
-    mood: "hopful",
+    date: "01-02-2023",
+    mood: "hopeful",
     entry_text: 
     
     "Morning
@@ -540,7 +540,7 @@ e8= Entry.create(
 e9= Entry.create(
     title: " My Other Half",
     category: "Love",
-    date: 01-02-2023,
+    date: "01-02-2023",
     mood: "lonely",
     entry_text: 
     
@@ -646,7 +646,7 @@ e9= Entry.create(
 e10= Entry.create(
     title: "I am successful",
     category: "Money",
-    date: 01-03-2023,
+    date: "01-03-2023",
     mood: "Broke AF",
     entry_text: 
     
@@ -676,7 +676,7 @@ e10= Entry.create(
 e11= Entry.create(
     title: "Eating Less",
     category: "Health",
-    date: 01-03-2023,
+    date: "01-03-2023",
     mood: "Hungry",
     entry_text: "Morning
 
@@ -690,7 +690,7 @@ e11= Entry.create(
 e12= Entry.create(
     title: "Loose 20 Pounds",
     category: "Health",
-    date: 01-03-2023,
+    date: "01-03-2023",
     mood: "Feely FLUFFY",
     entry_text: 
     
