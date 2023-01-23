@@ -1,13 +1,14 @@
 import {useState, useEffect} from 'react'
 
 import Login from './Login.js';
-import {Routes, Route} from 'react-router-dom'
+import {Routes, Route, BrowserRouter} from 'react-router-dom'
 import Signup from './Signup.js';
 import Home from './Home.js';
 import About from './About.js';
-import EntryContainer from './EntryContainer.js';
-import Affirmations from './Affirmations.js';
-import EntryCard from './EntryCard.js';
+import Entries from './Entries.js';
+import New_Entry from './New_Entry.js';
+import Sidebar from './Sidebar.js';
+
 
 function App() {
    
@@ -34,6 +35,9 @@ function App() {
 
     
      <div>
+      
+     
+      
      
       <Routes>
          <Route
@@ -59,18 +63,22 @@ function App() {
          />
 
            <Route
-           path="/entry"
-          element={<EntryCard setCurrentUser={setCurrentUser} />}
+           path="/new_entry"
+          element={<New_Entry setCurrentUser={setCurrentUser} />}
          /> 
 
           <Route
            path="/entries"
-          element={<EntryContainer setCurrentUser={setCurrentUser} />}
+          element={<Entries setCurrentUser={setCurrentUser} />}
          />
-
+          
+         {/* <Route
+           path="/logout"
+          element={<Logout setCurrentUser={setCurrentUser} />}
+         /> */}
           
       </Routes>
-
+      
       
     </div>
     

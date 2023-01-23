@@ -1,7 +1,7 @@
 import React from 'react'
 // import dream_catcher from './images/dream-catcher.png' 
 import './home.css'
-import Navbar from './Navbar'   
+// import Navbar from './Navbar'  
 import Sidebar from './Sidebar' 
 import my_movie from '../videos/my_movie.mp4'
 import catcher from '../images/catcher.png'
@@ -9,12 +9,13 @@ import Logo from './Logo'
 
 
 
+
 const Home = () => {
 
   return (
     <div >
-         <Navbar /> 
-         <Sidebar />  
+         
+         <Sidebar />   
        
         <div className="main">
             

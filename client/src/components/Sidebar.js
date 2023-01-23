@@ -1,19 +1,49 @@
 import React from 'react'
 import './sidebar.css';
 import catcher from '../images/catcher.png'
+import { useNavigate, NavLink, BrowserRouter, Link } from 'react-router-dom';
+
+
 
 const Sidebar = () => {
-  return (
+  let navigate = useNavigate()
 
+  const clickHandler = () => {
+      console.log('click')
+  }
 
-    <div class="sidebar">
-      
-  <a class="active" href="#home">Home</a>
-  <a href="#about">About</a>
-  <a href="#new_entry">New Entry</a>
-  <a href="#entries">Entries</a>
-  <a href="#logout">Logout</a>
   
+
+  return (<div className="sidebar">
+
+
+    {/* <NavLink >
+    <button onClick={clickHandler} > Home </button>
+    </NavLink> 
+
+    <NavLink >
+      <button onClick={clickHandler} > About </button>
+    </NavLink>
+
+    <NavLink>
+      <button onClick={clickHandler} > New Entry </button>
+    </NavLink>
+
+    <NavLink>
+      <button onClick={clickHandler} > Entries </button>
+    </NavLink>
+
+    <NavLink>
+    <button onClick={clickHandler} > Logout </button>
+    </NavLink>
+     */}
+
+     <Link to="/">Home</Link>
+     <Link to="/about">About</Link>
+     <Link to="/new_entry">New Entry</Link>
+     <Link to="/entries">Entries</Link>
+     <Link to="/logout">Logout</Link>
+
   </div>
 
   

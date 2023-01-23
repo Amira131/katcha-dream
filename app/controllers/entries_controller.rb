@@ -1,4 +1,5 @@
 class EntriesController < ApplicationController
+    before_action :set_entry, only: [:show, :destroy]
 
     def index
         render json: Entry.all, status: :ok
@@ -47,9 +48,9 @@ class EntriesController < ApplicationController
     end
 
     def destroy
-        housing_deleted = Housing.find_by_id(params[:id])
-        if housing_deleted
-            housing_deleted.destroy
+        entry_deleted = Entry.find_by_id(params[:id])
+        if entry_deleted
+            entry_deleted.destroy
             head :no_content
         else
             render json: { message: "Nothing to delete" }, status: :not_found
@@ -62,12 +63,12 @@ class EntriesController < ApplicationController
 
     def new_entry_params
         #implicit return with attributes 
-        params.permit(:address, :image, :overview, :price)
+        params.permit(:title, :category, :date, :mood, :entry_text)
     end
 
     def edit_entry_params
         #implicit return with attributes 
-        params.permit(:address, :image, :overview, :price)
+        params.permit(:entry_text)
     end
 
 end
