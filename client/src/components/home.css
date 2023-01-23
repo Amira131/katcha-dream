@@ -41,11 +41,12 @@
     background-color: pink(0,0,0,.4);   
 
  } 
- /* .logo img {
-         width: 400px;   
+ img {
+         width: 300px;   
          height: 600px;
          display: flexbox;
+         position: relative;
          
- } */
+ } 
 
     
