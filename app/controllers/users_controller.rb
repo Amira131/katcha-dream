@@ -14,7 +14,7 @@ skip_before_action
         if current_user
             #sending text response back to viewer
             
-            render json: current_user, serializer: UserShowSerializer
+            render json: current_user
         else
             render json: { "error": "not authenticated" }, status: :unauthorized
         end

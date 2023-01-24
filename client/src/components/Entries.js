@@ -1,12 +1,9 @@
 import React from 'react'
-import Search from './Search.js'
-const EntryContainer = () => {
+
+const Entries = () => {
   return (
-    <div>
-    <Search />
-    I am all entries I have a search bar 
-    </div>
+    <div>Entries</div>
   )
 }
 
-export default EntryContainer
+export default Entries

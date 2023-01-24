@@ -1,10 +1,9 @@
 import React from 'react'
-import Affirmations from './Affirmations'
 
-const EntryCard = () => {
+const New_Entry = () => {
   return (
-    <div>I am once card entry</div>
+    <div>New_Entry</div>
   )
 }
 
-export default EntryCard
+export default New_Entry

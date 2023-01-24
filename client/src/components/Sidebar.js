@@ -14,7 +14,9 @@ const Sidebar = () => {
 
   
 
-  return (<div className="sidebar">
+  return (<div className="sidebar" 
+  
+   onClick={ () => console.log("sidebar") }>
 
 
     {/* <NavLink >
@@ -42,7 +44,7 @@ const Sidebar = () => {
      <Link to="/about">About</Link>
      <Link to="/new_entry">New Entry</Link>
      <Link to="/entries">Entries</Link>
-     <Link to="/logout">Logout</Link>
+     <p onClick={ () => console.log("loggedout") }>Logout</p>
 
   </div>
 

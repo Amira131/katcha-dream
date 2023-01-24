@@ -1,7 +1,7 @@
 import {useState, useEffect} from 'react'
 
 import Login from './Login.js';
-import {Routes, Route, BrowserRouter} from 'react-router-dom'
+import {Routes, Route, useNavigate} from 'react-router-dom'
 import Signup from './Signup.js';
 import Home from './Home.js';
 import About from './About.js';
@@ -10,21 +10,38 @@ import New_Entry from './New_Entry.js';
 import Sidebar from './Sidebar.js';
 
 
+
 function App() {
+  let navigate = useNavigate();
    
 
   const [users, setUsers] = useState([])
   const [currentUser, setCurrentUser] = useState(null)
 
+  
+  console.log("currentUser: ", currentUser)
+
 
 
   useEffect(() => {
-  fetch("/users")
+  fetch("/authorized")
   .then( r => r.json())
-  .then(data => setUsers(data))
+  .then(userInSession => {
+   
+    if ( userInSession.birthday ) {
+
+      setCurrentUser(userInSession)
+
+      // navigate("/home")
+      
+    } else console.log("No ones's loggedin")
+
+  
+  }
+  )
   }, [])
 
-
+   
   function handleLogin(user) {
     setUsers(users);
   }
@@ -36,7 +53,7 @@ function App() {
     
      <div>
       
-     
+     {/* conditional render sidebar */}
       
      
       <Routes>
@@ -72,10 +89,10 @@ function App() {
           element={<Entries setCurrentUser={setCurrentUser} />}
          />
           
-         {/* <Route
+          {/* <Route
            path="/logout"
           element={<Logout setCurrentUser={setCurrentUser} />}
-         /> */}
+         />  */}
           
       </Routes>
       

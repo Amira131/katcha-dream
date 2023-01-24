@@ -7,10 +7,10 @@ class ApplicationController < ActionController::API
   #before_action
   before_action :authorized_user
 
-  #current_user
-  # def current_user
-  #   loggedInUser = User.find_by(id: session[:customer_id])
-  # end
+  # current_user
+  def current_user
+    loggedInUser = User.find_by(id: session[:user_id])
+  end
 
 
 
@@ -24,8 +24,8 @@ class ApplicationController < ActionController::API
     render json: {errors: {error.model => "Not Found"}}, status: :not_found
   end
 
-  def authorized_customer
-    render json: {error: "Not authorized"}, status: :unauthorized unless session.include? :customer_id
+  def authorized_user
+    render json: {error: "Not authorized"}, status: :unauthorized unless session.include? :user_id
   end
 
 end
