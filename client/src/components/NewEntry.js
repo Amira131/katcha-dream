@@ -25,28 +25,29 @@ const NewEntry = () => {
 
         <div className="entry-form__field">
            <label htmlFor="category">Title:</label>         
-           <input type="text" name="category "id="category" /> 
+           <input type="text" name="title "id="title" placeholder='Title' /> 
         </div>
 
         <div className="entry-form__field">
            <label htmlFor="category">Category: </label>         
-           <input type="text" name="category "id="category" /> 
+           <input type="text" name="category "id="category" placeholder='Love, Career, Money, Spiritual etc?' /> 
         </div>
 
         <div className="entry-form__field">          
             <label htmlFor="date">Date:  </label>
-            <input type="text" name="date" id="date" /> 
+            <input type="text" name="date" id="date" placeholder=' Date' /> 
         </div>
 
         <div className="entry-form__field">
-            <label htmlFor="mood">Mood: </label>
-            <input type="text" name="date" id="date" /> 
+            <label className='mood' htmlFor="mood">Mood: </label>
+            <input type="text" name="mood" id="mood" placeholder='How do you feel?' /> 
         </div>
+        
 
 
         <div className="entry-form__field">
             <label htmlFor="">369 Manifestation</label>
-            <textarea name="notes" id="notes" rows="5" /> 
+            <textarea name="notes" id="notes" rows="5" placeholder='What are you Manifesting?' /> 
         </div>
 
         <div className="entry-form__button-wrapper">

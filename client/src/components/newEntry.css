@@ -35,7 +35,7 @@ entry-form {
 }
 
 .entry-form__field > label {
-  font-size: 12px;
+  font: size 20px;
 }
 
 .entry-form__field > :is(input, textarea) {
