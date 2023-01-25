@@ -3,11 +3,15 @@ import {Box, Button, TextField, Typography} from "@mui/material";
 import './login.css';
 import { useState } from 'react';
 import SignUp from './Signup';
-import { NavLink } from 'react-router-dom';
+import { NavLink, useNavigate } from 'react-router-dom';
+
 
 const Login = ({setCurrentUser}) => {
-    const [isSignup, setIsSignup]  = useState(false);
-    console.log(isSignup)
+
+    // const [isSignup, setIsSignup]  = useState(false);
+    // // console.log(isSignup)
+
+    let navigate = useNavigate();
   
     const [formData, setFormData] = useState({
         username: "",
@@ -33,6 +37,7 @@ const Login = ({setCurrentUser}) => {
       if (res.ok) {
         res.json().then((user) => {
           setCurrentUser(user);
+          navigate("/home");
         });
       }else{
         res.json().then((errors) => {

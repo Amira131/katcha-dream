@@ -3,6 +3,7 @@ import Modal from "@material-ui/core/Modal";
 import { useState } from "react";
 import {Button}from "@material-ui/core/";
 import sky from '../images/sky.jpg'
+import './entryCard.css'
 
 const EntryCard = ({entry, affirmation}) => {
   const [showModal, setShowModal] = useState(false);
@@ -11,10 +12,9 @@ const EntryCard = ({entry, affirmation}) => {
 
   return (
     <div className='cover'>
-     {/* <img src={sky}/> */}
+    
     <div className="container" >
-     
-     
+
       <form className="card" onClick={() => setShowModal(true)}>
       <h2 className="entry-card__title">{entry.title}</h2>
       <h2 className="entry-card__category">{entry.category}</h2>
@@ -25,10 +25,11 @@ const EntryCard = ({entry, affirmation}) => {
         <div>
           <div className="Modal">
             <div className="Modal-details">
-              <h1>{entry.title}</h1>
-              <h2>{entry.category}</h2>
-              <h3>{entry.date}</h3>
-              <h4>{entry.mood}</h4>
+              <h1> Title: {entry.title}</h1>
+              <h2> Category: {entry.category}</h2>
+              <h2>Date:  {entry.date}</h2>
+              <h2>Mood:{entry.mood}</h2>
+              <h2>3-6-9 Manifesting:</h2>
               <p> {entry.entry_text}</p>
 
             </div> 

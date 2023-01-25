@@ -1,0 +1,15 @@
+ .main{
+
+     /* background-image: url(../images/sky.jpg) ; */
+     background-size:contain;
+     background-repeat:inherit
+    
+ }
+ 
+  .container{
+
+    position: relative;
+    padding: top 30px;
+
+
+} 

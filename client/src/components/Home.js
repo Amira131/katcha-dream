@@ -19,7 +19,7 @@ const Home = () => {
          {/* <Sidebar />    */}
        
         <div className="main">
-             
+           
             
             
             <video src={my_movie} autoPlay loop muted />
@@ -27,7 +27,7 @@ const Home = () => {
             <img src={catcher} alt="" /> */}
                 
                 <div className='content'>
-                   <Navbar/>
+                     {/* <Navbar/>  */}
                     <br></br>
                     <br></br>
                     <br></br>

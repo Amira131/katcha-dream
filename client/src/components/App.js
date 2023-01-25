@@ -20,6 +20,7 @@ function App() {
   const [users, setUsers] = useState([])
   const [currentUser, setCurrentUser] = useState(null)
   const [entries, setEntries] = useState([])
+  
 
  
 
@@ -63,9 +64,10 @@ function App() {
 
   
   return (
-
-    
+  
      <div>
+      <Navbar setCurrentUser={setCurrentUser}/>
+      
       
      {/* conditional render sidebar */}
      {/* { currentUser ? 
@@ -117,12 +119,7 @@ function App() {
           element={<Affirmations setCurrentUser={setCurrentUser} 
                    />}
          />
-          
-          {/* <Route
-           path="/logout"
-          element={<Logout setCurrentUser={setCurrentUser} />}
-         />  */}
-          
+         
       </Routes>
       
       

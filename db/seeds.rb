@@ -237,6 +237,347 @@ e1= Entry.create(
     affirmation_id: a1.id
 )
 
+e1= Entry.create(
+    title: "A New Job as Data Engineer ",
+    category: "Career",
+    date: "01-02-2023",
+    mood: "anxious",
+    entry_text: 
+    
+    "Morning 
+    
+    I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position Afternoon I now have a 6 figure remote data engineer positionI now have a 6 figure remote data engineer positionI now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer positionI now have a 6 figure remote data engineer position,Evening I now have a 6 figure remote data engineer position I now have a 6 figure remote  data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position",
+
+    user_id: u1.id,
+    affirmation_id: a1.id
+)
+
+e1= Entry.create(
+    title: "A New Job as Data Engineer ",
+    category: "Career",
+    date: "01-03-2023",
+    mood: "anxious",
+    entry_text: 
+    
+    "Morning 
+
+    
+    I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position Afternoon I now have a 6 figure remote data engineer positionI now have a 6 figure remote data engineer positionI now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer positionI now have a 6 figure remote data engineer position,Evening I now have a 6 figure remote data engineer position I now have a 6 figure remote  data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position",
+
+    user_id: u1.id,
+    affirmation_id: a1.id
+)
+
+e1= Entry.create(
+    title: "A New Job as Data Engineer ",
+    category: "Career",
+    date: "01-04-2023",
+    mood: "anxious",
+    entry_text: 
+    
+    "Morning 
+    
+    I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position Afternoon I now have a 6 figure remote data engineer positionI now have a 6 figure remote data engineer positionI now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer positionI now have a 6 figure remote data engineer position,Evening I now have a 6 figure remote data engineer position I now have a 6 figure remote  data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position",
+
+    user_id: u1.id,
+    affirmation_id: a1.id
+)
+e1= Entry.create(
+    title: "A New Job as Data Engineer ",
+    category: "Career",
+    date: "01-05-2023",
+    mood: "anxious",
+    entry_text: 
+    
+    "Morning 
+    
+    I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position Afternoon I now have a 6 figure remote data engineer positionI now have a 6 figure remote data engineer positionI now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer positionI now have a 6 figure remote data engineer position,Evening I now have a 6 figure remote data engineer position I now have a 6 figure remote  data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position",
+
+    user_id: u1.id,
+    affirmation_id: a1.id
+)
+
+e1= Entry.create(
+    title: "A New Job as Data Engineer ",
+    category: "Career",
+    date: "01-06-2023",
+    mood: "anxious",
+    entry_text: 
+    
+    "Morning 
+    
+    I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position Afternoon I now have a 6 figure remote data engineer positionI now have a 6 figure remote data engineer positionI now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer positionI now have a 6 figure remote data engineer position,Evening I now have a 6 figure remote data engineer position I now have a 6 figure remote  data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position",
+
+    user_id: u1.id,
+    affirmation_id: a1.id
+)
+e1= Entry.create(
+    title: "A New Job as Data Engineer ",
+    category: "Career",
+    date: "01-07-2023",
+    mood: "anxious",
+    entry_text: 
+    
+    "Morning 
+    
+    I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position Afternoon I now have a 6 figure remote data engineer positionI now have a 6 figure remote data engineer positionI now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer positionI now have a 6 figure remote data engineer position,Evening I now have a 6 figure remote data engineer position I now have a 6 figure remote  data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position",
+
+    user_id: u1.id,
+    affirmation_id: a1.id
+)
+e1= Entry.create(
+    title: "A New Job as Data Engineer ",
+    category: "Career",
+    date: "01-08-2023",
+    mood: "anxious",
+    entry_text: 
+    
+    "Morning 
+    
+    I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position Afternoon I now have a 6 figure remote data engineer positionI now have a 6 figure remote data engineer positionI now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer positionI now have a 6 figure remote data engineer position,Evening I now have a 6 figure remote data engineer position I now have a 6 figure remote  data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position",
+
+    user_id: u1.id,
+    affirmation_id: a1.id
+)
+e1= Entry.create(
+    title: "A New Job as Data Engineer ",
+    category: "Career",
+    date: "01-09-2023",
+    mood: "anxious",
+    entry_text: 
+    
+    "Morning 
+    
+    I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position Afternoon I now have a 6 figure remote data engineer positionI now have a 6 figure remote data engineer positionI now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer positionI now have a 6 figure remote data engineer position,Evening I now have a 6 figure remote data engineer position I now have a 6 figure remote  data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position",
+
+    user_id: u1.id,
+    affirmation_id: a1.id
+)
+e1= Entry.create(
+    title: "A New Job as Data Engineer ",
+    category: "Career",
+    date: "01-10-2023",
+    mood: "anxious",
+    entry_text: 
+    
+    "Morning 
+    
+    I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position Afternoon I now have a 6 figure remote data engineer positionI now have a 6 figure remote data engineer positionI now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer positionI now have a 6 figure remote data engineer position,Evening I now have a 6 figure remote data engineer position I now have a 6 figure remote  data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position",
+
+    user_id: u1.id,
+    affirmation_id: a1.id
+)
+e1= Entry.create(
+    title: "A New Job as Data Engineer ",
+    category: "Career",
+    date: "01-11-2023",
+    mood: "anxious",
+    entry_text: 
+    
+    "Morning 
+    
+    I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position Afternoon I now have a 6 figure remote data engineer positionI now have a 6 figure remote data engineer positionI now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer positionI now have a 6 figure remote data engineer position,Evening I now have a 6 figure remote data engineer position I now have a 6 figure remote  data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position",
+
+    user_id: u1.id,
+    affirmation_id: a1.id
+)
+e1= Entry.create(
+    title: "A New Job as Data Engineer ",
+    category: "Career",
+    date: "01-12-2023",
+    mood: "anxious",
+    entry_text: 
+    
+    "Morning 
+    
+    I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position Afternoon I now have a 6 figure remote data engineer positionI now have a 6 figure remote data engineer positionI now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer positionI now have a 6 figure remote data engineer position,Evening I now have a 6 figure remote data engineer position I now have a 6 figure remote  data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position",
+
+    user_id: u1.id,
+    affirmation_id: a1.id
+)
+e1= Entry.create(
+    title: "A New Job as Data Engineer ",
+    category: "Career",
+    date: "01-13-2023",
+    mood: "anxious",
+    entry_text: 
+    
+    "Morning 
+    
+    I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position Afternoon I now have a 6 figure remote data engineer positionI now have a 6 figure remote data engineer positionI now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer positionI now have a 6 figure remote data engineer position,Evening I now have a 6 figure remote data engineer position I now have a 6 figure remote  data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position",
+
+    user_id: u1.id,
+    affirmation_id: a1.id
+)
+e1= Entry.create(
+    title: "A New Job as Data Engineer ",
+    category: "Career",
+    date: "01-14-2023",
+    mood: "anxious",
+    entry_text: 
+    
+    "Morning 
+    
+    I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position Afternoon I now have a 6 figure remote data engineer positionI now have a 6 figure remote data engineer positionI now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer positionI now have a 6 figure remote data engineer position,Evening I now have a 6 figure remote data engineer position I now have a 6 figure remote  data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position",
+
+    user_id: u1.id,
+    affirmation_id: a1.id
+)
+e1= Entry.create(
+    title: "A New Job as Data Engineer ",
+    category: "Career",
+    date: "01-15-2023",
+    mood: "anxious",
+    entry_text: 
+    
+    "Morning 
+    
+    I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position Afternoon I now have a 6 figure remote data engineer positionI now have a 6 figure remote data engineer positionI now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer positionI now have a 6 figure remote data engineer position,Evening I now have a 6 figure remote data engineer position I now have a 6 figure remote  data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position",
+
+    user_id: u1.id,
+    affirmation_id: a1.id
+)
+e1= Entry.create(
+    title: "A New Job as Data Engineer ",
+    category: "Career",
+    date: "01-16-2023",
+    mood: "anxious",
+    entry_text: 
+    
+    "Morning 
+    
+    I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position Afternoon I now have a 6 figure remote data engineer positionI now have a 6 figure remote data engineer positionI now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer positionI now have a 6 figure remote data engineer position,Evening I now have a 6 figure remote data engineer position I now have a 6 figure remote  data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position",
+
+    user_id: u1.id,
+    affirmation_id: a1.id
+)
+e1= Entry.create(
+    title: "A New Job as Data Engineer ",
+    category: "Career",
+    date: "01-17-2023",
+    mood: "anxious",
+    entry_text: 
+    
+    "Morning 
+    
+    I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position Afternoon I now have a 6 figure remote data engineer positionI now have a 6 figure remote data engineer positionI now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer positionI now have a 6 figure remote data engineer position,Evening I now have a 6 figure remote data engineer position I now have a 6 figure remote  data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position",
+
+    user_id: u1.id,
+    affirmation_id: a1.id
+)
+e1= Entry.create(
+    title: "A New Job as Data Engineer ",
+    category: "Career",
+    date: "01-18-2023",
+    mood: "anxious",
+    entry_text: 
+    
+    "Morning 
+    
+    I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position Afternoon I now have a 6 figure remote data engineer positionI now have a 6 figure remote data engineer positionI now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer positionI now have a 6 figure remote data engineer position,Evening I now have a 6 figure remote data engineer position I now have a 6 figure remote  data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position",
+
+    user_id: u1.id,
+    affirmation_id: a1.id
+)
+e1= Entry.create(
+    title: "A New Job as Data Engineer ",
+    category: "Career",
+    date: "01-19-2023",
+    mood: "anxious",
+    entry_text: 
+    
+    "Morning 
+    
+    I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position Afternoon I now have a 6 figure remote data engineer positionI now have a 6 figure remote data engineer positionI now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer positionI now have a 6 figure remote data engineer position,Evening I now have a 6 figure remote data engineer position I now have a 6 figure remote  data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position",
+
+    user_id: u1.id,
+    affirmation_id: a1.id
+)
+e1= Entry.create(
+    title: "A New Job as Data Engineer ",
+    category: "Career",
+    date: "01-20-2023",
+    mood: "anxious",
+    entry_text: 
+    
+    "Morning 
+    
+    I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position Afternoon I now have a 6 figure remote data engineer positionI now have a 6 figure remote data engineer positionI now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer positionI now have a 6 figure remote data engineer position,Evening I now have a 6 figure remote data engineer position I now have a 6 figure remote  data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position",
+
+    user_id: u1.id,
+    affirmation_id: a1.id
+)
+e1= Entry.create(
+    title: "A New Job as Data Engineer ",
+    category: "Career",
+    date: "01-21-2023",
+    mood: "anxious",
+    entry_text: 
+    
+    "Morning 
+    
+    I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position Afternoon I now have a 6 figure remote data engineer positionI now have a 6 figure remote data engineer positionI now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer positionI now have a 6 figure remote data engineer position,Evening I now have a 6 figure remote data engineer position I now have a 6 figure remote  data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position",
+
+    user_id: u1.id,
+    affirmation_id: a1.id
+)
+e1= Entry.create(
+    title: "A New Job as Data Engineer ",
+    category: "Career",
+    date: "01-22-2023",
+    mood: "anxious",
+    entry_text: 
+    
+    "Morning 
+    
+    I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position Afternoon I now have a 6 figure remote data engineer positionI now have a 6 figure remote data engineer positionI now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer positionI now have a 6 figure remote data engineer position,Evening I now have a 6 figure remote data engineer position I now have a 6 figure remote  data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position",
+
+    user_id: u1.id,
+    affirmation_id: a1.id
+)
+e1= Entry.create(
+    title: "A New Job as Data Engineer ",
+    category: "Career",
+    date: "01-23-2023",
+    mood: "anxious",
+    entry_text: 
+    
+    "Morning 
+    
+    I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position Afternoon I now have a 6 figure remote data engineer positionI now have a 6 figure remote data engineer positionI now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer positionI now have a 6 figure remote data engineer position,Evening I now have a 6 figure remote data engineer position I now have a 6 figure remote  data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position",
+
+    user_id: u1.id,
+    affirmation_id: a1.id
+)
+e1= Entry.create(
+    title: "A New Job as Data Engineer ",
+    category: "Career",
+    date: "01-24-2023",
+    mood: "anxious",
+    entry_text: 
+    
+    "Morning 
+    
+    I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position Afternoon I now have a 6 figure remote data engineer positionI now have a 6 figure remote data engineer positionI now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer positionI now have a 6 figure remote data engineer position,Evening I now have a 6 figure remote data engineer position I now have a 6 figure remote  data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position",
+
+    user_id: u1.id,
+    affirmation_id: a1.id
+)
+
+e1= Entry.create(
+    title: "A New Job as Data Engineer ",
+    category: "Career",
+    date: "01-25-2023",
+    mood: "anxious",
+    entry_text: 
+    
+    "Morning 
+    
+    I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position Afternoon I now have a 6 figure remote data engineer positionI now have a 6 figure remote data engineer positionI now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer positionI now have a 6 figure remote data engineer position,Evening I now have a 6 figure remote data engineer position I now have a 6 figure remote  data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position",
+
+    user_id: u1.id,
+    affirmation_id: a1.id
+)
 e2= Entry.create(
     title: "Manifesting My House",
     category: "Abundance",

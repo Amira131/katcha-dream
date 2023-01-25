@@ -5,18 +5,15 @@ import Navbar from './Navbar'
 
 const About = () => {
   return (
-    <div className='main'>
+    <div className='about'>
 
-      <Navbar />  
+      {/* <Navbar />   */}
         <br></br>
         <br></br>
-     
-
-       
-
-            <h1>Blessings,</h1> 
+    
+            
             <br></br>
-
+            <h1>Blessings</h1> 
             <h2>WHAT IS THE 369 METHOD & HOW TO USE IT</h2>
             <br></br>
 

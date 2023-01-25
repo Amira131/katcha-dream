@@ -1,16 +1,16 @@
 
 .main{
-     /* background-color:skyblue;    */
-    text-align:justify;
+     /* background-color:skyblue;   The font-family in here is affecting the click on the navbar. */
+    /* text-align:justify; */
      margin-left: 25px;
     margin-right:25px; 
-    font-family: fantasy;
+    font-family:fantasy
 
 } 
 
 .main{
 
-    background-image: url(../images/sky.jpg) 
+    /* background-image: url(../images/sky.jpg)  */
     
 }
 
@@ -44,14 +44,14 @@
 
 
 
-   p{
+   /* p{
 
     font-size: 20px;
     font-weight: 200;
     
 
 
-  }
+  } */
 
   
 

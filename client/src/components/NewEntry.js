@@ -4,9 +4,14 @@ import { Button } from '@mui/material';
 import "./newEntry.css"
 
 const NewEntry = () => {
+
+
+
+
+
   return (
     <div>
-      <Navbar />
+      {/* <Navbar /> */}
 
       <br></br>
       <br></br>
@@ -42,17 +47,14 @@ const NewEntry = () => {
             <label className='mood' htmlFor="mood">Mood: </label>
             <input type="text" name="mood" id="mood" placeholder='How do you feel?' /> 
         </div>
-        
-
-
+      
         <div className="entry-form__field">
             <label htmlFor="">369 Manifestation</label>
             <textarea name="notes" id="notes" rows="5" placeholder='What are you Manifesting?' /> 
         </div>
 
         <div className="entry-form__button-wrapper">
-            <Button type="submit">Create</Button> 
-            <Button type="submit">Delete</Button> 
+            <Button type="submit">Create</Button>
             <Button type="submit">Edit</Button> 
          
        </div>

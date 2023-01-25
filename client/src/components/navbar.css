@@ -1,12 +1,17 @@
- .options{
+  .options{
 
   display: flex;
   flex-wrap: wrap;
-
+  float: left; 
+  /* text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+    */
 
  }
- 
- 
+
+
+/* rgb(246, 226, 189); */
  
  
  
@@ -32,12 +37,12 @@
     /* position: relative; 
  }    */
 
-/* Position the navbar container inside the image */
+/* Position the navbar container inside the image  */
   /* .container {
   position: absolute;
   margin: 20px;
   width: auto;
-}    */
+}     */
 
 /* The navbar */
   /* .topnav {

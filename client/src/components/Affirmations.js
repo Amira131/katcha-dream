@@ -21,16 +21,10 @@ const Affirmations = () => {
         <h1>Affirmations</h1>
             { allAffirmations.map(affirmation => <h3>{affirmation.aff_text}</h3>
             
-            
-            )
         
+            )
             }
 
-
-
-
-        
-        
     </div>
   )
 }
