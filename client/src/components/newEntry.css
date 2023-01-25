@@ -1,0 +1,52 @@
+/* .h1{
+
+    font-size: 50px;
+    font-weight: 400;
+    font-style: oblique;
+    justify-content: center;
+} */
+
+
+entry-form {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+}
+
+.entry-form__title {
+  text-transform: uppercase;
+  font-size: 20px;
+  font-weight: 600;
+  text-align: center;
+}
+
+.entry-form__fields {
+  display: flex;
+  flex-direction:column;
+  gap: 10px;
+
+}
+
+.entry-form__field {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+.entry-form__field > label {
+  font-size: 12px;
+}
+
+.entry-form__field > :is(input, textarea) {
+  padding: 20px;
+  border: 3px solid var(--color-water-10);
+  border-radius: 4px;
+  font: inherit;
+  resize:vertical;
+}
+
+.entry-form__button-wrapper {
+  display: flex;
+  justify-content: center;
+}

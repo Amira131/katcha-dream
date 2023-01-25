@@ -1,8 +1,25 @@
-  /* div {
-  background-color: rgb(226, 223, 223);
-  
-}   */
 
+.main{
+     /* background-color:skyblue;    */
+    text-align:justify;
+     margin-left: 25px;
+    margin-right:25px; 
+    font-family: fantasy;
+
+} 
+
+.main{
+
+    background-image: url(../images/sky.jpg) 
+    
+}
+
+  
+   /* background-image: url(../images/</div>); */
+  
+    
+  
+/* rgb(226, 223, 223 */
  /* img{
     
     width:  500px;
@@ -27,29 +44,16 @@
 
 
 
+   p{
 
-  p{
-
-    font-family: fantasy;
-
-
-  }
-
-  h1{
-    font-family: fantasy;
-
-  }
-
-  h2{
+    font-size: 20px;
+    font-weight: 200;
+    
 
 
   }
 
-  h3{
-
-  }
-
-  h4{
+  
 
 
-  }
+ 

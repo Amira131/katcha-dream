@@ -2,7 +2,9 @@ class EntriesController < ApplicationController
     before_action :set_entry, only: [:show, :destroy]
 
     def index
-        render json: Entry.all, status: :ok
+        loggedInUser = User.find_by(id: session[:user_id])
+        render json: loggedInUser.entries
+        # render json: Entry.all, status: :ok
     end
 
     def show
@@ -73,4 +75,3 @@ class EntriesController < ApplicationController
 
 end
 
-end

@@ -1,11 +1,12 @@
 import React from 'react'
 // import dream_catcher from './images/dream-catcher.png' 
 import './home.css'
-// import Navbar from './Navbar'  
+ import Navbar from './Navbar'  
 import Sidebar from './Sidebar' 
 import my_movie from '../videos/my_movie.mp4'
 import catcher from '../images/catcher.png'
 import Logo from './Logo'
+
 
 
 
@@ -15,18 +16,25 @@ const Home = () => {
   return (
     <div >
          
-         <Sidebar />   
+         {/* <Sidebar />    */}
        
         <div className="main">
+             
             
-            {/* <div className="overlay"></div> */}
+            
             <video src={my_movie} autoPlay loop muted />
 {/*             
             <img src={catcher} alt="" /> */}
                 
                 <div className='content'>
+                   <Navbar/>
+                    <br></br>
+                    <br></br>
+                    <br></br>
+
+
                      
-                    <h1>Welcome</h1>
+                    <h1 onClick={() => console.log ("click")}>Welcome</h1>
                     <h2>to</h2>
                     <h1>Katcha Dream</h1>
             
