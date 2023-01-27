@@ -1,6 +1,6 @@
 import React from 'react'
 import './about.css'
-import Navbar from './Navbar'
+// import Navbar from './Navbar'
 
 
 const About = () => {
@@ -8,12 +8,17 @@ const About = () => {
     <div className='about'>
 
       {/* <Navbar />   */}
-        <br></br>
-        <br></br>
+            <br></br>
+            <br></br>
+            <br></br>
+            <br></br>
     
             
             <br></br>
             <h1>Blessings</h1> 
+            <br></br>
+
+
             <h2>WHAT IS THE 369 METHOD & HOW TO USE IT</h2>
             <br></br>
 
@@ -72,7 +77,7 @@ const About = () => {
                 </p>
                 <br></br>
 
-                <h1> Cool, right? Let’s discuss how it all works.</h1>
+                <h2> Cool, right? Let’s discuss how it all works.</h2>
                 <br></br>
 
                 <h2> How are the numbers 369 significant?</h2>
@@ -109,16 +114,16 @@ const About = () => {
                 <h2>How to manifest using the 369 method</h2>
                 <br></br>
                 <br></br>
-                <h1>Step 1- Set your intention</h1>
+                <h3>Step 1- Set your intention</h3>
                 <br></br>
                 
-                <h4> For the first step, get crystal clear on what exactly you are manifesting.</h4>
+                <h3> For the first step, get crystal clear on what exactly you are manifesting.</h3>
                 <br></br>
                 <p>
                     Imagine and feel the feeling of having your desire be your reality.<br></br> Say out loud or in your mind exactly what you desire while holding that feeling. <br></br>This proclaims your intention clearly to The Universe.
                 </p>
                 <br></br>
-                <h1>Step 2- Journal 3 times in the morning</h1>
+                <h3>Step 2- Journal 3 times in the morning</h3>
                 <br></br>
                 <p>
                     Pull out your journal or worksheet and write down what you desire three times. Write your desire as an affirmation.
@@ -136,7 +141,7 @@ const About = () => {
                     As you write each affirmation, hold the affirmation thought for 17 seconds. Importantly, feel the joyous feeling of manifesting your desire as you hold that thought for 17 seconds. <br></br> Allow your spirit to completely submerge in the excitement, anticipation, and joy of having what you desire. Step 3- Journal 6 times at midday
                 </p>
                 <br></br>
-                <h1>Step 3 -  Journal six times around midday</h1>
+                <h3>Step 3 -  Journal six times around midday</h3>
                 <br></br>
                 <p>
                     As you write, deeply feel how it is to have your desired reality. Smell, touch, taste, and sense on every level how it is to experience your desired reality. For each affirmation, hold the thought and feeling for 17 seconds.
@@ -146,7 +151,7 @@ const About = () => {
                     Again, holding a thought and feeling for 17 seconds may take some practice. It’s natural to have plenty of interrupting thoughts. And contradictory thoughts. We will discuss those in just a minute.
                 </p>
                 <br></br>
-                <h1>Step 4- Journal 9 times before bed</h1>
+                <h3>Step 4- Journal 9 times before bed</h3>
                 <br></br>
                 <p>
                     At the end of your day before bed, journal your desire nine more times. Again, focus your mindset to experience how the reality of having your desires feels. <br></br>Hold each affirmative intention statement for 17 seconds in your mind and heart. Allow yourself to be filled with all the good feelings and sensations that come with your manifestation becoming your reality.
@@ -154,7 +159,7 @@ const About = () => {
                 <br></br>
                 <h1>Tips for the 369 method</h1>
                 <br></br>
-                <h2>Practice</h2>
+                <h3>Practice</h3>
                 <br></br>
                 <p>
                     Because holding any thought for 17 seconds is difficult, practice is necessary. So just keep at it. The main reason it is suggested to do the 369 method for 45 days is to practice getting better at holding your intention and maintaining energetic alignment.

@@ -23,7 +23,9 @@ ActiveRecord::Schema.define(version: 2023_01_17_033425) do
     t.string "category"
     t.string "date"
     t.string "mood"
-    t.string "entry_text"
+    t.string "morning_text"
+    t.string "afternoon_text"
+    t.string "evening_text"
     t.integer "user_id", null: false
     t.integer "affirmation_id", null: false
     t.datetime "created_at", precision: 6, null: false

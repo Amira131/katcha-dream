@@ -1,5 +1,5 @@
 class EntriesController < ApplicationController
-    before_action :set_entry, only: [:show, :destroy]
+    # before_action :set_entry, only: [:show, :destroy]
 
     def index
         loggedInUser = User.find_by(id: session[:user_id])
@@ -22,30 +22,31 @@ class EntriesController < ApplicationController
         new_entry = Entry.new(new_entry_params)
         
         if new_entry.save
-            render json: new_entry, serializer: EntryShowSerializer
+            render json: new_entry, serializer: EntryShowSerializer, status: :ok
+
         else
             render json: {
-                "errors": new_housing.errors.full_messages
+                "errors": new_entry.errors.full_messages
             }, status: :unprocessable_entity
         end
     end
 
     def update 
-        housing_to_patch = Housing.find_by( id: params[:id] )
-        if housing_to_patch
+        entry_to_patch = Entry.find_by( id: params[:id] )
+        if entry_to_patch
 
-            housing_to_patch.update( edit_housing_params )
+            entry_to_patch.update( edit_entry_params )
         
-            if housing_to_patch.valid?
+            if entry_to_patch.valid?
 
-                render json: housing_to_patch
+                render json: entry_to_patch
             
             else 
 
-                render json: { "errors": housing_to_patch.errors.full_messages}, status: :unprocessable_entity
+                render json: { "errors": entry_to_patch.errors.full_messages}, status: :unprocessable_entity
             end
         else
-            render json: { "error": "Housing not found" }, status: :not_found
+            render json: { "error": "Entry not found" }, status: :not_found
         end
     end
 
@@ -65,12 +66,12 @@ class EntriesController < ApplicationController
 
     def new_entry_params
         #implicit return with attributes 
-        params.permit(:title, :category, :date, :mood, :entry_text)
+        params.permit(:title, :category, :date, :mood, :morning_text, :afternoon_text, :evening_text)
     end
 
     def edit_entry_params
         #implicit return with attributes 
-        params.permit(:entry_text)
+        params.permit(:title, :category, :date, :mood, :morning_text, :afternoon_text, :evening_text)
     end
 
 end

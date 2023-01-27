@@ -1,15 +1,13 @@
- .main{
 
-     /* background-image: url(../images/sky.jpg) ; */
-     background-size:contain;
-     background-repeat:inherit
+.entries{
+
+    background-color: skyblue;
     
- }
- 
-  .container{
+}
+  /* .container{
 
     position: relative;
     padding: top 30px;
 
 
-} 
+}  */

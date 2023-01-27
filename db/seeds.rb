@@ -227,14 +227,18 @@ e1= Entry.create(
     category: "Career",
     date: "01-01-2023",
     mood: "anxious",
-    entry_text: 
+
+    morning_text: 
+    "I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position",
     
-    "Morning 
-    
-    I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position Afternoon I now have a 6 figure remote data engineer positionI now have a 6 figure remote data engineer positionI now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer positionI now have a 6 figure remote data engineer position,Evening I now have a 6 figure remote data engineer position I now have a 6 figure remote  data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position",
+    afternoon_text: "I now have a 6 figure remote data engineer positionI now have a 6 figure remote data engineer positionI now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer positionI now have a 6 figure remote data engineer position",
+
+    evening_text: "I now have a 6 figure remote data engineer position I now have a 6 figure remote  data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position",
 
     user_id: u1.id,
     affirmation_id: a1.id
+
+    
 )
 
 e1= Entry.create(
@@ -242,11 +246,13 @@ e1= Entry.create(
     category: "Career",
     date: "01-02-2023",
     mood: "anxious",
-    entry_text: 
+
+    morning_text: 
+    "I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position",
     
-    "Morning 
+    afternoon_text: "I now have a 6 figure remote data engineer positionI now have a 6 figure remote data engineer positionI now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer positionI now have a 6 figure remote data engineer position",
     
-    I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position Afternoon I now have a 6 figure remote data engineer positionI now have a 6 figure remote data engineer positionI now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer positionI now have a 6 figure remote data engineer position,Evening I now have a 6 figure remote data engineer position I now have a 6 figure remote  data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position",
+    evening_text: "I now have a 6 figure remote data engineer position I now have a 6 figure remote  data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position",
 
     user_id: u1.id,
     affirmation_id: a1.id
@@ -257,12 +263,15 @@ e1= Entry.create(
     category: "Career",
     date: "01-03-2023",
     mood: "anxious",
-    entry_text: 
     
-    "Morning 
-
+    morning_text: 
     
-    I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position Afternoon I now have a 6 figure remote data engineer positionI now have a 6 figure remote data engineer positionI now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer positionI now have a 6 figure remote data engineer position,Evening I now have a 6 figure remote data engineer position I now have a 6 figure remote  data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position",
+   
+    "I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position",
+    
+    afternoon_text: "I now have a 6 figure remote data engineer positionI now have a 6 figure remote data engineer positionI now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer positionI now have a 6 figure remote data engineer position",
+    
+    evening_text: "I now have a 6 figure remote data engineer position I now have a 6 figure remote  data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position",
 
     user_id: u1.id,
     affirmation_id: a1.id
@@ -273,11 +282,14 @@ e1= Entry.create(
     category: "Career",
     date: "01-04-2023",
     mood: "anxious",
-    entry_text: 
+    morning_text: 
     
-    "Morning 
+     
+    "I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position",
     
-    I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position Afternoon I now have a 6 figure remote data engineer positionI now have a 6 figure remote data engineer positionI now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer positionI now have a 6 figure remote data engineer position,Evening I now have a 6 figure remote data engineer position I now have a 6 figure remote  data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position",
+    afternoon_text: "I now have a 6 figure remote data engineer positionI now have a 6 figure remote data engineer positionI now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer positionI now have a 6 figure remote data engineer position",
+    
+    evening_text: "I now have a 6 figure remote data engineer position I now have a 6 figure remote  data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position",
 
     user_id: u1.id,
     affirmation_id: a1.id
@@ -287,11 +299,15 @@ e1= Entry.create(
     category: "Career",
     date: "01-05-2023",
     mood: "anxious",
-    entry_text: 
     
-    "Morning 
+    morning_text: 
+
+   
+    "I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position",
     
-    I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position Afternoon I now have a 6 figure remote data engineer positionI now have a 6 figure remote data engineer positionI now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer positionI now have a 6 figure remote data engineer position,Evening I now have a 6 figure remote data engineer position I now have a 6 figure remote  data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position",
+    afternoon_text: "I now have a 6 figure remote data engineer positionI now have a 6 figure remote data engineer positionI now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer positionI now have a 6 figure remote data engineer position",
+    
+    evening_text: "I now have a 6 figure remote data engineer position I now have a 6 figure remote  data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position",
 
     user_id: u1.id,
     affirmation_id: a1.id
@@ -302,11 +318,15 @@ e1= Entry.create(
     category: "Career",
     date: "01-06-2023",
     mood: "anxious",
-    entry_text: 
     
-    "Morning 
+    morning_text: 
     
-    I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position Afternoon I now have a 6 figure remote data engineer positionI now have a 6 figure remote data engineer positionI now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer positionI now have a 6 figure remote data engineer position,Evening I now have a 6 figure remote data engineer position I now have a 6 figure remote  data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position",
+     
+    "I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position",
+    
+    afternoon_text: "I now have a 6 figure remote data engineer positionI now have a 6 figure remote data engineer positionI now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer positionI now have a 6 figure remote data engineer position",
+    
+    evening_text: "I now have a 6 figure remote data engineer position I now have a 6 figure remote  data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position",
 
     user_id: u1.id,
     affirmation_id: a1.id
@@ -316,11 +336,14 @@ e1= Entry.create(
     category: "Career",
     date: "01-07-2023",
     mood: "anxious",
-    entry_text: 
     
-    "Morning 
+    morning_text: 
+
+    "I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position",
     
-    I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position Afternoon I now have a 6 figure remote data engineer positionI now have a 6 figure remote data engineer positionI now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer positionI now have a 6 figure remote data engineer position,Evening I now have a 6 figure remote data engineer position I now have a 6 figure remote  data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position",
+    afternoon_text: "I now have a 6 figure remote data engineer positionI now have a 6 figure remote data engineer positionI now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer positionI now have a 6 figure remote data engineer position",
+    
+    evening_text: "I now have a 6 figure remote data engineer position I now have a 6 figure remote  data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position",
 
     user_id: u1.id,
     affirmation_id: a1.id
@@ -330,11 +353,14 @@ e1= Entry.create(
     category: "Career",
     date: "01-08-2023",
     mood: "anxious",
-    entry_text: 
+     
     
-    "Morning 
+    morning_text: 
+    "I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position",
     
-    I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position Afternoon I now have a 6 figure remote data engineer positionI now have a 6 figure remote data engineer positionI now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer positionI now have a 6 figure remote data engineer position,Evening I now have a 6 figure remote data engineer position I now have a 6 figure remote  data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position",
+    afternoon_text: "I now have a 6 figure remote data engineer positionI now have a 6 figure remote data engineer positionI now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer positionI now have a 6 figure remote data engineer position",
+    
+    evening_text: "I now have a 6 figure remote data engineer position I now have a 6 figure remote  data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position",
 
     user_id: u1.id,
     affirmation_id: a1.id
@@ -344,11 +370,15 @@ e1= Entry.create(
     category: "Career",
     date: "01-09-2023",
     mood: "anxious",
-    entry_text: 
+     
     
-    "Morning 
+    morning_text: 
+
+    "I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position",
     
-    I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position Afternoon I now have a 6 figure remote data engineer positionI now have a 6 figure remote data engineer positionI now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer positionI now have a 6 figure remote data engineer position,Evening I now have a 6 figure remote data engineer position I now have a 6 figure remote  data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position",
+    afternoon_text: "I now have a 6 figure remote data engineer positionI now have a 6 figure remote data engineer positionI now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer positionI now have a 6 figure remote data engineer position",
+    
+    evening_text: "I now have a 6 figure remote data engineer position I now have a 6 figure remote  data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position",
 
     user_id: u1.id,
     affirmation_id: a1.id
@@ -358,11 +388,14 @@ e1= Entry.create(
     category: "Career",
     date: "01-10-2023",
     mood: "anxious",
-    entry_text: 
+    morning_text: 
+
     
-    "Morning 
+    "I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position",
     
-    I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position Afternoon I now have a 6 figure remote data engineer positionI now have a 6 figure remote data engineer positionI now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer positionI now have a 6 figure remote data engineer position,Evening I now have a 6 figure remote data engineer position I now have a 6 figure remote  data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position",
+    afternoon_text: "I now have a 6 figure remote data engineer positionI now have a 6 figure remote data engineer positionI now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer positionI now have a 6 figure remote data engineer position",
+    
+    evening_text: "I now have a 6 figure remote data engineer position I now have a 6 figure remote  data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position",
 
     user_id: u1.id,
     affirmation_id: a1.id
@@ -372,11 +405,15 @@ e1= Entry.create(
     category: "Career",
     date: "01-11-2023",
     mood: "anxious",
-    entry_text: 
     
-    "Morning 
+    morning_text: 
+
     
-    I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position Afternoon I now have a 6 figure remote data engineer positionI now have a 6 figure remote data engineer positionI now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer positionI now have a 6 figure remote data engineer position,Evening I now have a 6 figure remote data engineer position I now have a 6 figure remote  data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position",
+    "I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position",
+    
+    afternoon_text: "I now have a 6 figure remote data engineer positionI now have a 6 figure remote data engineer positionI now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer positionI now have a 6 figure remote data engineer position",
+    
+    evening_text: "I now have a 6 figure remote data engineer position I now have a 6 figure remote  data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position",
 
     user_id: u1.id,
     affirmation_id: a1.id
@@ -386,11 +423,14 @@ e1= Entry.create(
     category: "Career",
     date: "01-12-2023",
     mood: "anxious",
-    entry_text: 
     
-    "Morning 
+    morning_text: 
     
-    I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position Afternoon I now have a 6 figure remote data engineer positionI now have a 6 figure remote data engineer positionI now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer positionI now have a 6 figure remote data engineer position,Evening I now have a 6 figure remote data engineer position I now have a 6 figure remote  data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position",
+    "I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position",
+    
+    afternoon_text: "I now have a 6 figure remote data engineer positionI now have a 6 figure remote data engineer positionI now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer positionI now have a 6 figure remote data engineer position",
+    
+    evening_text: "I now have a 6 figure remote data engineer position I now have a 6 figure remote  data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position",
 
     user_id: u1.id,
     affirmation_id: a1.id
@@ -400,11 +440,14 @@ e1= Entry.create(
     category: "Career",
     date: "01-13-2023",
     mood: "anxious",
-    entry_text: 
     
-    "Morning 
+    morning_text: 
     
-    I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position Afternoon I now have a 6 figure remote data engineer positionI now have a 6 figure remote data engineer positionI now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer positionI now have a 6 figure remote data engineer position,Evening I now have a 6 figure remote data engineer position I now have a 6 figure remote  data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position",
+    "I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position",
+    
+    afternoon_text: "I now have a 6 figure remote data engineer positionI now have a 6 figure remote data engineer positionI now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer positionI now have a 6 figure remote data engineer position",
+    
+    evening_text: "I now have a 6 figure remote data engineer position I now have a 6 figure remote  data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position",
 
     user_id: u1.id,
     affirmation_id: a1.id
@@ -414,12 +457,14 @@ e1= Entry.create(
     category: "Career",
     date: "01-14-2023",
     mood: "anxious",
-    entry_text: 
     
-    "Morning 
+    morning_text: 
     
-    I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position Afternoon I now have a 6 figure remote data engineer positionI now have a 6 figure remote data engineer positionI now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer positionI now have a 6 figure remote data engineer position,Evening I now have a 6 figure remote data engineer position I now have a 6 figure remote  data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position",
-
+    "I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position",
+    
+    afternoon_text: "I now have a 6 figure remote data engineer positionI now have a 6 figure remote data engineer positionI now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer positionI now have a 6 figure remote data engineer position",
+    
+    evening_text: "I now have a 6 figure remote data engineer position I now have a 6 figure remote  data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position",
     user_id: u1.id,
     affirmation_id: a1.id
 )
@@ -428,11 +473,14 @@ e1= Entry.create(
     category: "Career",
     date: "01-15-2023",
     mood: "anxious",
-    entry_text: 
     
-    "Morning 
+    morning_text: 
     
-    I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position Afternoon I now have a 6 figure remote data engineer positionI now have a 6 figure remote data engineer positionI now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer positionI now have a 6 figure remote data engineer position,Evening I now have a 6 figure remote data engineer position I now have a 6 figure remote  data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position",
+    "I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position",
+    
+    afternoon_text: "I now have a 6 figure remote data engineer positionI now have a 6 figure remote data engineer positionI now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer positionI now have a 6 figure remote data engineer position",
+    
+    evening_text: "I now have a 6 figure remote data engineer position I now have a 6 figure remote  data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position",
 
     user_id: u1.id,
     affirmation_id: a1.id
@@ -442,11 +490,14 @@ e1= Entry.create(
     category: "Career",
     date: "01-16-2023",
     mood: "anxious",
-    entry_text: 
     
-    "Morning 
+    morning_text: 
     
-    I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position Afternoon I now have a 6 figure remote data engineer positionI now have a 6 figure remote data engineer positionI now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer positionI now have a 6 figure remote data engineer position,Evening I now have a 6 figure remote data engineer position I now have a 6 figure remote  data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position",
+    "I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position",
+    
+    afternoon_text: "I now have a 6 figure remote data engineer positionI now have a 6 figure remote data engineer positionI now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer positionI now have a 6 figure remote data engineer position",
+    
+    evening_text: "I now have a 6 figure remote data engineer position I now have a 6 figure remote  data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position",
 
     user_id: u1.id,
     affirmation_id: a1.id
@@ -456,11 +507,14 @@ e1= Entry.create(
     category: "Career",
     date: "01-17-2023",
     mood: "anxious",
-    entry_text: 
     
-    "Morning 
+    morning_text: 
     
-    I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position Afternoon I now have a 6 figure remote data engineer positionI now have a 6 figure remote data engineer positionI now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer positionI now have a 6 figure remote data engineer position,Evening I now have a 6 figure remote data engineer position I now have a 6 figure remote  data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position",
+    "I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position",
+    
+    afternoon_text: "I now have a 6 figure remote data engineer positionI now have a 6 figure remote data engineer positionI now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer positionI now have a 6 figure remote data engineer position",
+    
+    evening_text: "I now have a 6 figure remote data engineer position I now have a 6 figure remote  data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position",
 
     user_id: u1.id,
     affirmation_id: a1.id
@@ -470,11 +524,14 @@ e1= Entry.create(
     category: "Career",
     date: "01-18-2023",
     mood: "anxious",
-    entry_text: 
     
-    "Morning 
+    morning_text: 
     
-    I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position Afternoon I now have a 6 figure remote data engineer positionI now have a 6 figure remote data engineer positionI now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer positionI now have a 6 figure remote data engineer position,Evening I now have a 6 figure remote data engineer position I now have a 6 figure remote  data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position",
+    "I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position",
+    
+    afternoon_text: "I now have a 6 figure remote data engineer positionI now have a 6 figure remote data engineer positionI now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer positionI now have a 6 figure remote data engineer position",
+    
+    evening_text: "I now have a 6 figure remote data engineer position I now have a 6 figure remote  data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position",
 
     user_id: u1.id,
     affirmation_id: a1.id
@@ -484,11 +541,14 @@ e1= Entry.create(
     category: "Career",
     date: "01-19-2023",
     mood: "anxious",
-    entry_text: 
     
-    "Morning 
+    morning_text: 
     
-    I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position Afternoon I now have a 6 figure remote data engineer positionI now have a 6 figure remote data engineer positionI now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer positionI now have a 6 figure remote data engineer position,Evening I now have a 6 figure remote data engineer position I now have a 6 figure remote  data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position",
+    "I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position",
+    
+    afternoon_text: "I now have a 6 figure remote data engineer positionI now have a 6 figure remote data engineer positionI now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer positionI now have a 6 figure remote data engineer position",
+    
+    evening_text: "I now have a 6 figure remote data engineer position I now have a 6 figure remote  data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position",
 
     user_id: u1.id,
     affirmation_id: a1.id
@@ -498,11 +558,14 @@ e1= Entry.create(
     category: "Career",
     date: "01-20-2023",
     mood: "anxious",
-    entry_text: 
+   
+    morning_text: 
     
-    "Morning 
+    "I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position",
     
-    I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position Afternoon I now have a 6 figure remote data engineer positionI now have a 6 figure remote data engineer positionI now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer positionI now have a 6 figure remote data engineer position,Evening I now have a 6 figure remote data engineer position I now have a 6 figure remote  data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position",
+    afternoon_text: "I now have a 6 figure remote data engineer positionI now have a 6 figure remote data engineer positionI now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer positionI now have a 6 figure remote data engineer position",
+    
+    evening_text: "I now have a 6 figure remote data engineer position I now have a 6 figure remote  data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position",
 
     user_id: u1.id,
     affirmation_id: a1.id
@@ -512,11 +575,14 @@ e1= Entry.create(
     category: "Career",
     date: "01-21-2023",
     mood: "anxious",
-    entry_text: 
     
-    "Morning 
+    morning_text: 
     
-    I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position Afternoon I now have a 6 figure remote data engineer positionI now have a 6 figure remote data engineer positionI now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer positionI now have a 6 figure remote data engineer position,Evening I now have a 6 figure remote data engineer position I now have a 6 figure remote  data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position",
+    "I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position",
+    
+    afternoon_text: "I now have a 6 figure remote data engineer positionI now have a 6 figure remote data engineer positionI now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer positionI now have a 6 figure remote data engineer position",
+    
+    evening_text: "I now have a 6 figure remote data engineer position I now have a 6 figure remote  data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position",
 
     user_id: u1.id,
     affirmation_id: a1.id
@@ -526,11 +592,14 @@ e1= Entry.create(
     category: "Career",
     date: "01-22-2023",
     mood: "anxious",
-    entry_text: 
+   
+    morning_text: 
     
-    "Morning 
+    "I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position",
     
-    I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position Afternoon I now have a 6 figure remote data engineer positionI now have a 6 figure remote data engineer positionI now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer positionI now have a 6 figure remote data engineer position,Evening I now have a 6 figure remote data engineer position I now have a 6 figure remote  data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position",
+    afternoon_text: "I now have a 6 figure remote data engineer positionI now have a 6 figure remote data engineer positionI now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer positionI now have a 6 figure remote data engineer position",
+    
+    evening_text: "I now have a 6 figure remote data engineer position I now have a 6 figure remote  data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position",
 
     user_id: u1.id,
     affirmation_id: a1.id
@@ -540,11 +609,14 @@ e1= Entry.create(
     category: "Career",
     date: "01-23-2023",
     mood: "anxious",
-    entry_text: 
     
-    "Morning 
+    morning_text: 
     
-    I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position Afternoon I now have a 6 figure remote data engineer positionI now have a 6 figure remote data engineer positionI now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer positionI now have a 6 figure remote data engineer position,Evening I now have a 6 figure remote data engineer position I now have a 6 figure remote  data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position",
+    "I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position",
+    
+    afternoon_text: "I now have a 6 figure remote data engineer positionI now have a 6 figure remote data engineer positionI now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer positionI now have a 6 figure remote data engineer position",
+    
+    evening_text: "I now have a 6 figure remote data engineer position I now have a 6 figure remote  data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position",
 
     user_id: u1.id,
     affirmation_id: a1.id
@@ -554,11 +626,14 @@ e1= Entry.create(
     category: "Career",
     date: "01-24-2023",
     mood: "anxious",
-    entry_text: 
     
-    "Morning 
+    morning_text: 
     
-    I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position Afternoon I now have a 6 figure remote data engineer positionI now have a 6 figure remote data engineer positionI now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer positionI now have a 6 figure remote data engineer position,Evening I now have a 6 figure remote data engineer position I now have a 6 figure remote  data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position",
+    "I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position",
+    
+    afternoon_text: "I now have a 6 figure remote data engineer positionI now have a 6 figure remote data engineer positionI now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer positionI now have a 6 figure remote data engineer position",
+    
+    evening_text: "I now have a 6 figure remote data engineer position I now have a 6 figure remote  data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position",
 
     user_id: u1.id,
     affirmation_id: a1.id
@@ -569,499 +644,502 @@ e1= Entry.create(
     category: "Career",
     date: "01-25-2023",
     mood: "anxious",
-    entry_text: 
     
-    "Morning 
+    morning_text: 
     
-    I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position Afternoon I now have a 6 figure remote data engineer positionI now have a 6 figure remote data engineer positionI now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer positionI now have a 6 figure remote data engineer position,Evening I now have a 6 figure remote data engineer position I now have a 6 figure remote  data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position",
+    "I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position",
+    
+    afternoon_text: "I now have a 6 figure remote data engineer positionI now have a 6 figure remote data engineer positionI now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer positionI now have a 6 figure remote data engineer position",
+    
+    evening_text: "I now have a 6 figure remote data engineer position I now have a 6 figure remote  data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position I now have a 6 figure remote data engineer position",
 
     user_id: u1.id,
     affirmation_id: a1.id
 )
-e2= Entry.create(
-    title: "Manifesting My House",
-    category: "Abundance",
-    date: "01-01-2023",
-    mood: "hopeful",
-    entry_text: 
+# e2= Entry.create(
+#     title: "Manifesting My House",
+#     category: "Abundance",
+#     date: "01-01-2023",
+#     mood: "hopeful",
+#     morning_text: 
     
-    "Morning
+#     "Morning
     
-    I now live in my beautiful dream house
-    I now live in my beautiful dream house
-    I now live in my beautiful dream house
+#     I now live in my beautiful dream house
+#     I now live in my beautiful dream house
+#     I now live in my beautiful dream house
 
-    Afternoon
+#     Afternoon
 
-    I now live in my beautiful dream house
-    I now live in my beautiful dream house
-    I now live in my beautiful dream house
-    I now live in my beautiful dream house
-    I now live in my beautiful dream house
-    I now live in my beautiful dream house",
+#     I now live in my beautiful dream house
+#     I now live in my beautiful dream house
+#     I now live in my beautiful dream house
+#     I now live in my beautiful dream house
+#     I now live in my beautiful dream house
+#     I now live in my beautiful dream house",
 
-    user_id: u2.id,
-    affirmation_id: a2.id
-)
-e3= Entry.create(
-    title: "Greafulness",
-    category: "Spiritual Expansion",
-    date: "01-01-2023",
-    mood: "Greatful",
-    entry_text: 
-    "Morning
+#     user_id: u2.id,
+#     affirmation_id: a2.id
+# )
+# e3= Entry.create(
+#     title: "Greafulness",
+#     category: "Spiritual Expansion",
+#     date: "01-01-2023",
+#     mood: "Greatful",
+#     morning_text: 
+#     "Morning
     
-    I grow more grateful each and every day
-    I grow more grateful each and every day
-    I grow more grateful each and every day
+#     I grow more grateful each and every day
+#     I grow more grateful each and every day
+#     I grow more grateful each and every day
 
-    Afternoon
+#     Afternoon
 
-    I grow more grateful each and every day
-    I grow more grateful each and every day
-    I grow more grateful each and every day
-    I grow more grateful each and every day
-    I grow more grateful each and every day
-    I grow more grateful each and every day",
+#     I grow more grateful each and every day
+#     I grow more grateful each and every day
+#     I grow more grateful each and every day
+#     I grow more grateful each and every day
+#     I grow more grateful each and every day
+#     I grow more grateful each and every day",
 
-    user_id: u3.id,
-    affirmation_id: a3.id
-)
-e4= Entry.create(
-    title: "The Need to Love",
-    category: "Self Love",
-    date: "01-01-2023",
-    mood: "sad",
-    entry_text: 
+#     user_id: u3.id,
+#     affirmation_id: a3.id
+# )
+# e4= Entry.create(
+#     title: "The Need to Love",
+#     category: "Self Love",
+#     date: "01-01-2023",
+#     mood: "sad",
+#     morning_text: 
     
-    "Morning
+#     "Morning
 
-    I love myself just as I am
-    I love myself just as I am
-    I love myself just as I am
+#     I love myself just as I am
+#     I love myself just as I am
+#     I love myself just as I am
 
-    Afternoon
+#     Afternoon
 
-    I love myself just as I am
-    I love myself just as I am
-    I love myself just as I am
-    I love myself just as I am
-    I love myself just as I am
-    I love myself just as I am
+#     I love myself just as I am
+#     I love myself just as I am
+#     I love myself just as I am
+#     I love myself just as I am
+#     I love myself just as I am
+#     I love myself just as I am
 
-    Evening
+#     Evening
 
-    I love myself just as I am
-    I love myself just as I am
-    I love myself just as I am
-    I love myself just as I am
-    I love myself just as I am
-    I love myself just as I am
-    I love myself just as I am
-    I love myself just as I am
-    I love myself just as I am",
+#     I love myself just as I am
+#     I love myself just as I am
+#     I love myself just as I am
+#     I love myself just as I am
+#     I love myself just as I am
+#     I love myself just as I am
+#     I love myself just as I am
+#     I love myself just as I am
+#     I love myself just as I am",
 
-    user_id: u4.id,
-    affirmation_id: a4.id
-)
-e5= Entry.create(
-    title: "I Needed a Pick Me Up",
-    category: "Self Esteem",
-    date: "01-01-2023",
-    mood: "low",
-    entry_text: 
+#     user_id: u4.id,
+#     affirmation_id: a4.id
+# )
+# e5= Entry.create(
+#     title: "I Needed a Pick Me Up",
+#     category: "Self Esteem",
+#     date: "01-01-2023",
+#     mood: "low",
+#     morning_text: 
     
-    "Morning
+#     "Morning
 
-    I choose to be kind to myself
-    I choose to be kind to myself
-    I choose to be kind to myself
+#     I choose to be kind to myself
+#     I choose to be kind to myself
+#     I choose to be kind to myself
 
-    Afternoon
+#     Afternoon
 
-    I choose to be kind to myself
-    I choose to be kind to myself
-    I choose to be kind to myself",
+#     I choose to be kind to myself
+#     I choose to be kind to myself
+#     I choose to be kind to myself",
 
-    user_id: u5.id,
-    affirmation_id: a5.id
-)
-e6= Entry.create(
-    title: "I will manifest $3000 in 3 weeks",
-    category: "Money",
-    date: "01-02-2023",
-    mood: "witchy",
-    entry_text: 
+#     user_id: u5.id,
+#     affirmation_id: a5.id
+# )
+# e6= Entry.create(
+#     title: "I will manifest $3000 in 3 weeks",
+#     category: "Money",
+#     date: "01-02-2023",
+#     mood: "witchy",
+#     morning_text: 
     
-    "Morning
+#     "Morning
 
-    Money comes to me easily
-    Money comes to me fast
-    Money loves my company
-    When money comes it lasts
+#     Money comes to me easily
+#     Money comes to me fast
+#     Money loves my company
+#     When money comes it lasts
 
-    Money comes to me easily
-    Money comes to me fast
-    Money loves my company
-    When money comes it lasts
+#     Money comes to me easily
+#     Money comes to me fast
+#     Money loves my company
+#     When money comes it lasts
 
-    Money comes to me easily
-    Money comes to me fast
-    Money loves my company
-    When money comes it lasts
+#     Money comes to me easily
+#     Money comes to me fast
+#     Money loves my company
+#     When money comes it lasts
 
-    Afternoon
+#     Afternoon
 
-    Money comes to me easily
-    Money comes to me fast
-    Money loves my company
-    When money comes it lasts
+#     Money comes to me easily
+#     Money comes to me fast
+#     Money loves my company
+#     When money comes it lasts
 
-    Money comes to me easily
-    Money comes to me fast
-    Money loves my company
-    When money comes it lasts
+#     Money comes to me easily
+#     Money comes to me fast
+#     Money loves my company
+#     When money comes it lasts
 
-    Money comes to me easily
-    Money comes to me fast
-    Money loves my company
-    When money comes it lasts
+#     Money comes to me easily
+#     Money comes to me fast
+#     Money loves my company
+#     When money comes it lasts
 
-    Money comes to me easily
-    Money comes to me fast
-    Money loves my company
-    When money comes it lasts
+#     Money comes to me easily
+#     Money comes to me fast
+#     Money loves my company
+#     When money comes it lasts
 
-    Money comes to me easily
-    Money comes to me fast
-    Money loves my company
-    When money comes it lasts
+#     Money comes to me easily
+#     Money comes to me fast
+#     Money loves my company
+#     When money comes it lasts
 
-    Money comes to me easily
-    Money comes to me fast
-    Money loves my company
-    When money comes it lasts",
+#     Money comes to me easily
+#     Money comes to me fast
+#     Money loves my company
+#     When money comes it lasts",
 
-    user_id: u6.id,
-    affirmation_id: a6.id
-)
-e7= Entry.create(
-    title: "A little Peace of Mind",
-    category: "Mental Health",
-    date: "01-02-2023",
-    mood: "angry",
-    entry_text: 
+#     user_id: u6.id,
+#     affirmation_id: a6.id
+# )
+# e7= Entry.create(
+#     title: "A little Peace of Mind",
+#     category: "Mental Health",
+#     date: "01-02-2023",
+#     mood: "angry",
+#     morning_text: 
     
-    "Morning
+#     "Morning
 
-    Peace comes to me easily
-    Peace comes to me fast
-    Peace loves my company
-    When peace comes it lasts
+#     Peace comes to me easily
+#     Peace comes to me fast
+#     Peace loves my company
+#     When peace comes it lasts
 
-    Peace comes to me easily
-    Peace comes to me fast
-    Peace loves my company
-    When peace comes it lasts
+#     Peace comes to me easily
+#     Peace comes to me fast
+#     Peace loves my company
+#     When peace comes it lasts
 
-    Peace comes to me easily
-    Peace comes to me fast
-    Peace loves my company
-    When peace comes it lasts
+#     Peace comes to me easily
+#     Peace comes to me fast
+#     Peace loves my company
+#     When peace comes it lasts
 
-    Afternoon
+#     Afternoon
 
-    Peace comes to me easily
-    Peace comes to me fast
-    Peace loves my company
-    When peace comes it lasts
+#     Peace comes to me easily
+#     Peace comes to me fast
+#     Peace loves my company
+#     When peace comes it lasts
 
-    Peace comes to me easily
-    Peace comes to me fast
-    Peace loves my company
-    When peace comes it lasts
+#     Peace comes to me easily
+#     Peace comes to me fast
+#     Peace loves my company
+#     When peace comes it lasts
 
-    Peace comes to me easily
-    Peace comes to me fast
-    Peace loves my company
-    When peace comes it lasts
+#     Peace comes to me easily
+#     Peace comes to me fast
+#     Peace loves my company
+#     When peace comes it lasts
 
-    Peace comes to me easily
-    Peace comes to me fast
-    Peace loves my company
-    When peace comes it lasts
+#     Peace comes to me easily
+#     Peace comes to me fast
+#     Peace loves my company
+#     When peace comes it lasts
 
-    Peace comes to me easily
-    Peace comes to me fast
-    Peace loves my company
-    When peace comes it lasts
+#     Peace comes to me easily
+#     Peace comes to me fast
+#     Peace loves my company
+#     When peace comes it lasts
 
-    Peace comes to me easily
-    Peace comes to me fast
-    Peace loves my company
-    When peace comes it lasts
+#     Peace comes to me easily
+#     Peace comes to me fast
+#     Peace loves my company
+#     When peace comes it lasts
 
-    Evening
+#     Evening
 
-    Peace comes to me easily
-    Peace comes to me fast
-    Peace loves my company
-    When peace comes it lasts
+#     Peace comes to me easily
+#     Peace comes to me fast
+#     Peace loves my company
+#     When peace comes it lasts
 
-    Peace comes to me easily
-    Peace comes to me fast
-    Peace loves my company
-    When peace comes it lasts
+#     Peace comes to me easily
+#     Peace comes to me fast
+#     Peace loves my company
+#     When peace comes it lasts
 
-    Peace comes to me easily
-    Peace comes to me fast
-    Peace loves my company
-    When peace comes it lasts
+#     Peace comes to me easily
+#     Peace comes to me fast
+#     Peace loves my company
+#     When peace comes it lasts
 
-    Peace comes to me easily
-    Peace comes to me fast
-    Peace loves my company
-    When peace comes it lasts
+#     Peace comes to me easily
+#     Peace comes to me fast
+#     Peace loves my company
+#     When peace comes it lasts
 
-    Peace comes to me easily
-    Peace comes to me fast
-    Peace loves my company
-    When peace comes it lasts
+#     Peace comes to me easily
+#     Peace comes to me fast
+#     Peace loves my company
+#     When peace comes it lasts
 
-    Peace comes to me easily
-    Peace comes to me fast
-    Peace loves my company
-    When peace comes it lasts
+#     Peace comes to me easily
+#     Peace comes to me fast
+#     Peace loves my company
+#     When peace comes it lasts
 
-    Peace comes to me easily
-    Peace comes to me fast
-    Peace loves my company
-    When peace comes it lasts
+#     Peace comes to me easily
+#     Peace comes to me fast
+#     Peace loves my company
+#     When peace comes it lasts
 
-    Peace comes to me easily
-    Peace comes to me fast
-    Peace loves my company
-    When peace comes it lasts
+#     Peace comes to me easily
+#     Peace comes to me fast
+#     Peace loves my company
+#     When peace comes it lasts
 
-    Peace comes to me easily
-    Peace comes to me fast
-    Peace loves my company
-    When peace comes it lasts",
+#     Peace comes to me easily
+#     Peace comes to me fast
+#     Peace loves my company
+#     When peace comes it lasts",
 
-    user_id: u7.id,
-    affirmation_id: a7.id
-)
-e8= Entry.create(
-    title: "I Got the Joy Deep in my Soul",
-    category: "Self Work",
-    date: "01-02-2023",
-    mood: "hopeful",
-    entry_text: 
+#     user_id: u7.id,
+#     affirmation_id: a7.id
+# )
+# e8= Entry.create(
+#     title: "I Got the Joy Deep in my Soul",
+#     category: "Self Work",
+#     date: "01-02-2023",
+#     mood: "hopeful",
+#     morning_text: 
     
-    "Morning
+#     "Morning
 
-    Joy comes to me easily
-    Joy comes to me fast
-    Joy loves my company
-    When joy comes it lasts
+#     Joy comes to me easily
+#     Joy comes to me fast
+#     Joy loves my company
+#     When joy comes it lasts
 
-    Joy comes to me easily
-    Joy comes to me fast
-    Joy loves my company
-    When joy comes it lasts
+#     Joy comes to me easily
+#     Joy comes to me fast
+#     Joy loves my company
+#     When joy comes it lasts
 
-    Joy comes to me easily
-    Joy comes to me fast
-    Joy loves my company
-    When joy comes it lasts",
+#     Joy comes to me easily
+#     Joy comes to me fast
+#     Joy loves my company
+#     When joy comes it lasts",
 
-    user_id: u8.id,
-    affirmation_id: a8.id
-)
-e9= Entry.create(
-    title: " My Other Half",
-    category: "Love",
-    date: "01-02-2023",
-    mood: "lonely",
-    entry_text: 
+#     user_id: u8.id,
+#     affirmation_id: a8.id
+# )
+# e9= Entry.create(
+#     title: " My Other Half",
+#     category: "Love",
+#     date: "01-02-2023",
+#     mood: "lonely",
+#     morning_text: 
     
-    "Morning
+#     "Morning
 
-    Love comes to me easily
-    Love comes to me fast
-    Love loves my company
-    When Love comes it lasts
+#     Love comes to me easily
+#     Love comes to me fast
+#     Love loves my company
+#     When Love comes it lasts
 
-    Love comes to me easily
-    Love comes to me fast
-    Love loves my company
-    When Love comes it lasts
+#     Love comes to me easily
+#     Love comes to me fast
+#     Love loves my company
+#     When Love comes it lasts
 
-    Love comes to me easily
-    Love comes to me fast
-    Love loves my company
-    When Love comes it lasts
+#     Love comes to me easily
+#     Love comes to me fast
+#     Love loves my company
+#     When Love comes it lasts
 
-    Afternoon
+#     Afternoon
 
-    Love comes to me easily
-    Love comes to me fast
-    Love loves my company
-    When Love comes it lasts
+#     Love comes to me easily
+#     Love comes to me fast
+#     Love loves my company
+#     When Love comes it lasts
 
-    Love comes to me easily
-    Love comes to me fast
-    Love loves my company
-    When Love comes it lasts
+#     Love comes to me easily
+#     Love comes to me fast
+#     Love loves my company
+#     When Love comes it lasts
 
-    Love comes to me easily
-    Love comes to me fast
-    Love loves my company
-    When Love comes it lasts
+#     Love comes to me easily
+#     Love comes to me fast
+#     Love loves my company
+#     When Love comes it lasts
 
-    Love comes to me easily
-    Love comes to me fast
-    Love loves my company
-    When Love comes it lasts
+#     Love comes to me easily
+#     Love comes to me fast
+#     Love loves my company
+#     When Love comes it lasts
 
-    Love comes to me easily
-    Love comes to me fast
-    Love loves my company
-    When Love comes it lasts
+#     Love comes to me easily
+#     Love comes to me fast
+#     Love loves my company
+#     When Love comes it lasts
 
-    Love comes to me easily
-    Love comes to me fast
-    Love loves my company
-    When Love comes it lasts
+#     Love comes to me easily
+#     Love comes to me fast
+#     Love loves my company
+#     When Love comes it lasts
 
-    Evening
+#     Evening
 
-    Love comes to me easily
-    Love comes to me fast
-    Love loves my company
-    When Love comes it lasts
+#     Love comes to me easily
+#     Love comes to me fast
+#     Love loves my company
+#     When Love comes it lasts
 
-    Love comes to me easily
-    Love comes to me fast
-    Love loves my company
-    When Love comes it lasts
+#     Love comes to me easily
+#     Love comes to me fast
+#     Love loves my company
+#     When Love comes it lasts
 
-    Love comes to me easily
-    Love comes to me fast
-    Love loves my company
-    When Love comes it lasts
+#     Love comes to me easily
+#     Love comes to me fast
+#     Love loves my company
+#     When Love comes it lasts
 
-    Love comes to me easily
-    Love comes to me fast
-    Love loves my company
-    When Love comes it lasts
+#     Love comes to me easily
+#     Love comes to me fast
+#     Love loves my company
+#     When Love comes it lasts
 
-    Love comes to me easily
-    Love comes to me fast
-    Love loves my company
-    When Love comes it lasts
+#     Love comes to me easily
+#     Love comes to me fast
+#     Love loves my company
+#     When Love comes it lasts
 
-    Love comes to me easily
-    Love comes to me fast
-    Love loves my company
-    When Love comes it lasts
+#     Love comes to me easily
+#     Love comes to me fast
+#     Love loves my company
+#     When Love comes it lasts
 
-    Love comes to me easily
-    Love comes to me fast
-    Love loves my company
-    When Love comes it lasts
+#     Love comes to me easily
+#     Love comes to me fast
+#     Love loves my company
+#     When Love comes it lasts
 
-    Love comes to me easily
-    Love comes to me fast
-    Love loves my company
-    When Love comes it lasts
+#     Love comes to me easily
+#     Love comes to me fast
+#     Love loves my company
+#     When Love comes it lasts
 
-    Love comes to me easily
-    Love comes to me fast
-    Love loves my company
-    When Love comes it lasts",
+#     Love comes to me easily
+#     Love comes to me fast
+#     Love loves my company
+#     When Love comes it lasts",
 
-    user_id: u9.id,
-    affirmation_id: a9.id
-)
-e10= Entry.create(
-    title: "I am successful",
-    category: "Money",
-    date: "01-03-2023",
-    mood: "Broke AF",
-    entry_text: 
+#     user_id: u9.id,
+#     affirmation_id: a9.id
+# )
+# e10= Entry.create(
+#     title: "I am successful",
+#     category: "Money",
+#     date: "01-03-2023",
+#     mood: "Broke AF",
+#     morning_text: 
     
-    "Morning
+#     "Morning
 
-    Every day I am attracting and saving more and more money
+#     Every day I am attracting and saving more and more money
 
-    Every day I am attracting and saving more and more money
+#     Every day I am attracting and saving more and more money
 
-    Every day I am attracting and saving more and more money
+#     Every day I am attracting and saving more and more money
 
-    Afternoon
+#     Afternoon
 
-    Every day I am attracting and saving more and more money
+#     Every day I am attracting and saving more and more money
 
-    Every day I am attracting and saving more and more money
+#     Every day I am attracting and saving more and more money
 
-    Every day I am attracting and saving more and more money
+#     Every day I am attracting and saving more and more money
 
-    Every day I am attracting and saving more and more money
+#     Every day I am attracting and saving more and more money
 
-    Every day I am attracting and saving more and more money",
+#     Every day I am attracting and saving more and more money",
 
-    user_id: u10.id,
-    affirmation_id: a10.id
-)
-e11= Entry.create(
-    title: "Eating Less",
-    category: "Health",
-    date: "01-03-2023",
-    mood: "Hungry",
-    entry_text: "Morning
+#     user_id: u10.id,
+#     affirmation_id: a10.id
+# )
+# e11= Entry.create(
+#     title: "Eating Less",
+#     category: "Health",
+#     date: "01-03-2023",
+#     mood: "Hungry",
+#     morning_text: "Morning
 
-    I am active, fit, healthy, and attractive
-    I am active, fit, healthy, and attractive
-    I am active, fit, healthy, and attractive",
+#     I am active, fit, healthy, and attractive
+#     I am active, fit, healthy, and attractive
+#     I am active, fit, healthy, and attractive",
 
-    user_id: u11.id,
-    affirmation_id: a11.id
-)
-e12= Entry.create(
-    title: "Loose 20 Pounds",
-    category: "Health",
-    date: "01-03-2023",
-    mood: "Feely FLUFFY",
-    entry_text: 
+#     user_id: u11.id,
+#     affirmation_id: a11.id
+# )
+# e12= Entry.create(
+#     title: "Loose 20 Pounds",
+#     category: "Health",
+#     date: "01-03-2023",
+#     mood: "Feely FLUFFY",
+#     morning_text: 
     
-    "Morning
+#     "Morning
 
-    I am active, fit, healthy, and attractive
-    I am active, fit, healthy, and attractive
-    I am active, fit, healthy, and attractive
+#     I am active, fit, healthy, and attractive
+#     I am active, fit, healthy, and attractive
+#     I am active, fit, healthy, and attractive
 
-    Afternoon
+#     Afternoon
 
-    I am active, fit, healthy, and attractive
-    I am active, fit, healthy, and attractive
-    I am active, fit, healthy, and attractive
-    I am active, fit, healthy, and attractive
-    I am active, fit, healthy, and attractive
-    I am active, fit, healthy, and attractive
+#     I am active, fit, healthy, and attractive
+#     I am active, fit, healthy, and attractive
+#     I am active, fit, healthy, and attractive
+#     I am active, fit, healthy, and attractive
+#     I am active, fit, healthy, and attractive
+#     I am active, fit, healthy, and attractive
 
-    Evening
+#     Evening
 
-    I am active, fit, healthy, and attractive
-    I am active, fit, healthy, and attractive
-    I am active, fit, healthy, and attractive
-    I am active, fit, healthy, and attractive
-    I am active, fit, healthy, and attractive
-    I am active, fit, healthy, and attractive
-    I am active, fit, healthy, and attractive
-    I am active, fit, healthy, and attractive
-    I am active, fit, healthy, and attractive",
+#     I am active, fit, healthy, and attractive
+#     I am active, fit, healthy, and attractive
+#     I am active, fit, healthy, and attractive
+#     I am active, fit, healthy, and attractive
+#     I am active, fit, healthy, and attractive
+#     I am active, fit, healthy, and attractive
+#     I am active, fit, healthy, and attractive
+#     I am active, fit, healthy, and attractive
+#     I am active, fit, healthy, and attractive",
 
-    user_id: u12.id,
-    affirmation_id: a12.id
-)
+#     user_id: u12.id,
+#     affirmation_id: a12.id
+# )

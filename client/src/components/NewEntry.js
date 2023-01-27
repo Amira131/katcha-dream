@@ -2,28 +2,73 @@ import React from 'react'
 import Navbar from './Navbar'
 import { Button } from '@mui/material';
 import "./newEntry.css"
+import {useState} from 'react'
 
-const NewEntry = () => {
+const NewEntry = ({entries, setEntries}) => {
 
+  const [newJournal, setNewJournal] = useState({
+        title: "",
+        category: "",
+        date: "",
+        mood: "",
+        morning_text: "",
+        afternoon_text: "",
+        evening_text: ""
+  })
+
+
+  const handleSubmit = (e) => {
+    e.preventDefault();
+   
+    setEntries(
+      [...entries, newJournal]
+    )
+
+  //   fetch("/entries", {
+  //     method: "POST",
+  //     headers: {
+  //       "Content-Type": "application/json",
+  //     },
+  //     body: JSON.stringify(newJournal),
+  //   }).then((res) => {
+  //     if (res.ok) {
+  //       res.json().then((newEntryFromRails) => {
+  //         setNewJournal(newEntryFromRails);
+  //       });
+  //     }else{
+  //       res.json().then((errors) => {
+  //         console.error(errors);
+  //     });
+  //    }
+  //  }) 
+    
+
+
+  }
 
 
 
 
   return (
-    <div>
-      {/* <Navbar /> */}
+    <div className='journal'>
+      
 
       <br></br>
       <br></br>
       <br></br>
+      <br></br>
+      <br></br>
 
-     <h1 className='title'> My Katcha Dream </h1>
+     <h1 className='katch'> My Katcha Dream </h1>
 
       <br></br>
       <br></br>
       <br></br>
   
-     <form className="entry-form">
+     <form className="entry-form" onSubmit={(se) => {
+        handleSubmit(se)
+
+     } }>
          
     
      <div className="entry-form__fields">
@@ -49,13 +94,15 @@ const NewEntry = () => {
         </div>
       
         <div className="entry-form__field">
-            <label htmlFor="">369 Manifestation</label>
-            <textarea name="notes" id="notes" rows="5" placeholder='What are you Manifesting?' /> 
+            <label htmlFor="">3-6-9 Manifestation</label>
+            <textarea name="notes" id="notes" rows="3" placeholder='Morning Manifestion' /> 
+            <textarea name="notes" id="notes" rows="3" placeholder='Afternoon Manifestition' /> 
+            <textarea name="notes" id="notes" rows="3" placeholder='Evening Manifestation' /> 
         </div>
 
         <div className="entry-form__button-wrapper">
             <Button type="submit">Create</Button>
-            <Button type="submit">Edit</Button> 
+            {/* <Button type="submit">Edit</Button>  */}
          
        </div>
       </div>

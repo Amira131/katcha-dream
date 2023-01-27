@@ -1,36 +1,30 @@
 
-.main{
+
+
+.about{
      /* background-color:skyblue;   The font-family in here is affecting the click on the navbar. */
     /* text-align:justify; */
      margin-left: 25px;
-    margin-right:25px; 
+     margin-right:25px; 
     font-family:fantasy
 
 } 
 
-.main{
+h1{
 
-    /* background-image: url(../images/sky.jpg)  */
-    
+  text-align: center;
+  justify-content: center;
 }
 
-  
+p{
+  font-size: larger;
+}
+
    /* background-image: url(../images/</div>); */
   
     
-  
-/* rgb(226, 223, 223 */
- /* img{
-    
-    width:  500px;
-    height: 600px;
-    display: flexbox;
-    
           
-  } */
-
-/* h1 styling */
-
+ 
 /* .main{
 
     font-size: 50px;
@@ -39,21 +33,11 @@
     display: flexbox;
 
 
-
 } */
 
 
 
-   /* p{
-
-    font-size: 20px;
-    font-weight: 200;
-    
-
-
-  } */
-
-  
+   
 
 
  

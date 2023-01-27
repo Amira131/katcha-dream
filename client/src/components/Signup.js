@@ -2,9 +2,12 @@ import React from 'react'
 import {Box, Button, TextField, Typography} from "@mui/material";
 import './login.css';
 import { useState } from 'react';
-import { NavLink } from 'react-router-dom';
+import { NavLink, useNavigate } from 'react-router-dom';
 
 const Signup= ({setCurrentUser}) => {
+  
+   let navigate = useNavigate();
+
   
     const [formData, setFormData] = useState({
         first_name: "",
@@ -29,7 +32,7 @@ const Signup= ({setCurrentUser}) => {
     const newUserInfo = {...formData}
 
     
-    fetch("/users", {
+    fetch("/signup", {
       method: "POST",
       headers: {
         "Content-Type": "application/json",
@@ -39,6 +42,7 @@ const Signup= ({setCurrentUser}) => {
       if (res.ok) {
         res.json().then((user) => {
           setCurrentUser(user);
+         navigate("/");
         });
       }else{
         res.json().then((errors) => {
